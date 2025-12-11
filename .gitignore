@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.bin
+*.pt
+*.pth
+*.onnx
+*.mp3
+*.wav
+*.txt
+*.srt
+output.txt
+temp_outputs*/
