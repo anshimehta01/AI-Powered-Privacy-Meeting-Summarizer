@@ -109,6 +109,6 @@ User login for storing summary history
 Researchers, students, corporates, consultants, lawyers, doctors, journalists —
 anyone who attends meetings but hates writing minutes.
 
-If you like this project, ⭐ star the repository and feel free to contribute!
+If you like this project, ⭐ star the repository.
 
-Is this
+
